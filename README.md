@@ -1,4 +1,7 @@
-![Full-Stack Web Developer](https://i.ibb.co/j97Ds0gG/Blue-White-Modern-Online-Business-Webinar-Banner.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mobashir-Rakib/Mobashir-Rakib/main/your-image.png" width="100%" height="auto"/>
+</p>
+
 
 ## Hi there 👋, I AM MOBASHIR RAKIB
 #### Full-Stack Web Developer
