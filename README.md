@@ -1,6 +1,7 @@
-<p align="center">
+[<p align="center">
   <img src="https://raw.githubusercontent.com/Mobashir-Rakib/Mobashir-Rakib/main/your-image.png" width="100%" height="auto"/>
-</p>
+</p](https://raw.githubusercontent.com/Mobashir-Rakib/Mobashir-Rakib/main/banner.png
+)
 
 
 ## Hi there 👋, I AM MOBASHIR RAKIB
