@@ -7,10 +7,17 @@
 ## Hi there 👋, I AM MOBASHIR RAKIB
 #### Full-Stack Web Developer
 
-Hello! I’m a passionate Full Stack Web Developer specializing in the MERN Stack (MongoDB, Express, React, Node.js). I love building scalable, efficient, and user-friendly web applications and solving complex problems with clean, maintainable code. I enjoy learning new technologies, exploring frameworks, contributing to open-source, and collaborating with other developers to create meaningful projects.
+Hello! I’m a passionate Data Science and Machine Learning Researcher as well as a Full Stack Web Developer specializing in the MERN Stack (MongoDB, Express, React, Node.js).
+I love
+
+building scalable, efficient, and user-friendly web applications
+solving complex problems with clean, maintainable code
+conducting research in data science and machine learning
+
+I enjoy learning new technologies, exploring frameworks, contributing to open-source projects, and collaborating with other developers to create meaningful and impactful work.
 
 
-Skills: C  / C++ / HTML / JAVA / NODE.JS / REACT / JAVASCRIPT
+Skills: Python/C  / C++ / HTML / JAVA / NODE.JS / REACT / JAVASCRIPT
 
 
 - 🔭 I’m currently working on Fiverr & Facebook 
