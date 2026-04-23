@@ -4,8 +4,8 @@
 )
 
 
-## Hi there 👋, I AM MOBASHIR RAKIB 
-#### Data Scientist & Full-Stack Web Developer
+## Hi there 👋, I AM MD MOBASHIR HOSSAIN RAKIB 
+### Data Scientist & Full-Stack Web Developer
 
 Hello! I’m a passionate Data Science and Machine Learning Researcher as well as a Full Stack Web Developer specializing in the MERN Stack (MongoDB, Express, React, Node.js).
 I love
